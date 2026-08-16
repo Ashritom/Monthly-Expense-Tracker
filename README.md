@@ -1,5 +1,7 @@
 # Monthly-Expense-Tracker
 
+* **For Google Sheet users : https://docs.google.com/spreadsheets/d/1-eF0H__MTbGGQXiiiGgEdDzYGXHAn4hbPaySCTg07OI/edit?gid=1038079595#gid=1038079595** 
+
 ## Monthly Expense & Financial Planning Tracker — Excel
 
 A reusable and downloadable **Microsoft Excel template** designed to help individuals plan their monthly income, prioritize important financial commitments, and systematically track their day-to-day expenses.
